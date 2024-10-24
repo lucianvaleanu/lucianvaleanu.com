@@ -7,11 +7,15 @@
   }
   
   .title{
-    font-weight: 800;
+    font-weight: 600;
     font-style: italic;
   }
   
   .subtitle{
     margin-top: -10px;
     color: #FF5039;
+  }
+
+  .highlightedText{
+    font-weight: 800;
   }
