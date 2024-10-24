@@ -1,0 +1,17 @@
+.titleAndSubtitle {
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    justify-content: center;
+    height: 93vh;
+  }
+  
+  .title{
+    font-weight: 800;
+    font-style: italic;
+  }
+  
+  .subtitle{
+    margin-top: -10px;
+    color: #FF5039;
+  }
